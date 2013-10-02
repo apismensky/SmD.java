@@ -4,3 +4,10 @@
 *.jar
 *.war
 *.ear
+target
+
+# IntelliJ Files #
+.idea
+*.iml
+
+.DS_Store
